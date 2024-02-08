@@ -7,12 +7,13 @@ This repository serves as a central hub where I document my exploration of mathe
 
 
 ## Contents 
-- [Lecture Notes]
+- [Lecture Notes](#lecture-notes)
 - [Articles]
   - [Essential Calculus Concepts]
 - [Computational Mathematics]
 
 
+## Lecture Notes
 
 ## Subrepositories:
 
