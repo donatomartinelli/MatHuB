@@ -14,7 +14,7 @@ This repository serves as a central hub where I document my exploration of mathe
   - [bachelor 3](#bachelor-3)
 - [Articles](#articles)
   - [Essential Calculus Concepts](#essential-calculus-concepts)
-  - [Random Proofs](#random-proof)
+  - [Random Proofs](#random-proofs)
 - [Computational Mathematics](#computational-mathematics)
   - [Project Euler](#project-euler)
   - [LeetCode](#leetcode)
