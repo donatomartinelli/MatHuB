@@ -5,6 +5,15 @@
 MatHuB is your go-to destination for all things related to my academic journey in mathematics and intriguing articles on various mathematical topics. 
 This repository serves as a central hub where I document my exploration of mathematical concepts, share lecture notes, delve into computational mathematics, and discuss interesting articles I come across.
 
+
+## Contents 
+- [Lecture Notes]
+- [Articles]
+  - [Essential Calculus Concepts]
+- [Computational Mathematics]
+
+
+
 ## Subrepositories:
 
 ### 1. Lecture Notes:
