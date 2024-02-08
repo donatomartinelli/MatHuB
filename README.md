@@ -1,5 +1,3 @@
-# MatHuB
-
 # Welcome to MatHuB!
 
 MatHuB is your go-to destination for all things related to my academic journey in mathematics and intriguing articles on various mathematical topics. 
