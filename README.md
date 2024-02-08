@@ -6,9 +6,18 @@ This repository serves as a central hub where I document my exploration of mathe
 
 ## Contents 
 - [Lecture Notes](#lecture-notes)
+  - [bachelor 1](#bachelor-1)
+    - [Algebra](#algebra)
+    - [Geometry I](#geometry-i)
+    - [Calculus I](#calculus-i)
+  - [bachelor 2](#bachelor-2)
+  - [bachelor 3](#bachelor-3)
 - [Articles](#articles)
   - [Essential Calculus Concepts](#essential-calculus-concepts)
+  - [Random Proofs](#random-proof)
 - [Computational Mathematics](#computational-mathematics)
+  - [Project Euler](#project-euler)
+  - [LeetCode](#leetcode)
 
 
 ## Lecture Notes
