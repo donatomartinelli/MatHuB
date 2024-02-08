@@ -27,8 +27,7 @@ Whether it's calculus, algebra, geometry, or any other branch of mathematics, yo
 ## Articles
 Explore a collection of random articles covering a wide range of intriguing math topics. 
 From explorations of famous mathematical conjectures to discussions on the applications of mathematics in everyday life, these articles aim to inspire curiosity and deeper exploration.
-
-### Essential Calculus Concepts
+- [Essential Calculus Concepts](https://github.com/donatomartinelli/MatHuB/tree/main/Articles/Essential%20Calculus%20Concepts) - "Essential Calculus Concepts" is a foundational document designed to provide readers with a comprehensive introduction to fundamental mathematical principles essential for understanding calculus. 
 ### Random Proofs
 
 
