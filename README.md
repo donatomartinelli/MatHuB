@@ -1,6 +1,5 @@
 # Welcome to MatHuB!
 
-MatHuB is your go-to destination for all things related to my academic journey in mathematics and intriguing articles on various mathematical topics. 
 This repository serves as a central hub where I document my exploration of mathematical concepts, share lecture notes, delve into computational mathematics, and discuss interesting articles I come across.
 
 
@@ -21,7 +20,7 @@ This repository serves as a central hub where I document my exploration of mathe
 
 
 ## Lecture Notes
-In this subrepository, you'll find comprehensive lecture notes, study materials, and academic resources related to my mathematical studies. 
+Here you'll find comprehensive lecture notes, study materials, and academic resources related to my mathematical studies. 
 Whether it's calculus, algebra, geometry, or any other branch of mathematics, you'll find organized materials to aid in your understanding.
 
 ## Articles
